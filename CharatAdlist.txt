@@ -1,9 +1,10 @@
 #adlist
 
-127.0.0.1 newslikemeds.com
-127.0.0.1 newscadence.com
-127.0.0.1 duplicatebecame.com
-127.0.0.1 queererbaltei.space
-127.0.0.1 notebookbesiege.com
-127.0.0.1 slowundergroundattentive.com
-127.0.0.1 busyexit.com
+newslikemeds.com
+newscadence.com
+duplicatebecame.com
+queererbaltei.space
+notebookbesiege.com
+slowundergroundattentive.com
+busyexit.com
+ginnyclairvoyantapp.com
